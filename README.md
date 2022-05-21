@@ -19,6 +19,8 @@ The following animation demonstrates the application functionality:
 
 My file repository in GitHub is [here](https://github.com/KaterynaTekmenzhi/work-day-scheduler)
 
+View my Deployed application here [here](https://katerynatekmenzhi.github.io/work-day-scheduler/)
+
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
