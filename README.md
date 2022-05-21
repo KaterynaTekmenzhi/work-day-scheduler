@@ -15,8 +15,6 @@ The following animation demonstrates the application functionality:
 
 ![usage](./Assets/screenshots/Work%20Day%20Scheduler.gif)
 
-See video for a *[walkthrough](https://drive.google.com/file/d/1AUF46TLx8lrJR6SOOQOqcEZfWgHxJd3_/view)
-
 ## Author
 
 My file repository in GitHub is [here](https://github.com/KaterynaTekmenzhi/work-day-scheduler)
