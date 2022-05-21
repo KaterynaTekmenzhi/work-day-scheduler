@@ -13,7 +13,9 @@ A simple calendar application that allows a user to save events for each hour of
 
 The following animation demonstrates the application functionality:
 
-![A user clicks on slots on the color-coded calendar and edits the events.]()
+![usage](./Assets/screenshots/Work%20Day%20Scheduler.gif)
+
+See video for a *[walkthrough](https://drive.google.com/file/d/1AUF46TLx8lrJR6SOOQOqcEZfWgHxJd3_/view)
 
 ## Author
 
